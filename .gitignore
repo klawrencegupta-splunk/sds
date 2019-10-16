@@ -1,2 +1,3 @@
 .git
-.DS*
+.DS_Store
+.gitignore
